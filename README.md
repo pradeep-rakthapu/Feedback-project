@@ -60,7 +60,7 @@ This project is a User Feedback System designed to collect, store, and display u
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/pradeep-rakthapu/Feedback-project.git
    cd feed-back-app
    ```
 
@@ -78,6 +78,8 @@ This project is a User Feedback System designed to collect, store, and display u
      PORT=5000
      MONGO_URI=<your-mongo-db-connection-string>
      ```
+     ```env
+     
 
 4. **Run the Application**
    - Start the backend:
