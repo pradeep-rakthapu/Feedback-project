@@ -150,7 +150,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 ---
 
 ## Author
-[Pradeep goud]  
-[pradeepgoud.rpg@gmail.com]  
-[Your LinkedIn Profile]
+Pradeep goud  
+[pradeepgoud.rpg@gmail.com].
 
