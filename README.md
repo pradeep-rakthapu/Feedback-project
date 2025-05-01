@@ -134,19 +134,6 @@ feed-back-app/
 │   └── server.js          # Main server file
 └── README.md              # Project documentation
 ```
-
----
-
-## Future Enhancements
-- Add authentication for accessing the dashboard.
-- Implement more advanced filtering and analytics for feedback.
-- Deploy the application to a cloud platform (e.g., Heroku, AWS).
-
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
 ---
 
 ## Author
