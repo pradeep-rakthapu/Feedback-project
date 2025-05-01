@@ -74,10 +74,12 @@ This project is a User Feedback System designed to collect, store, and display u
 
 3. **Setup Environment Variables**
    - Create a `.env` file in the root directory with the following variables:
+   - backend `.env` file
      ```env
      PORT=5000
      MONGO_URI=<your-mongo-db-connection-string>
      ```
+   - frontend `.env` file
      ```env
      REACT_APP_API_URL=http://localhost:5000
      ```
