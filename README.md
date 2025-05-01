@@ -79,6 +79,8 @@ This project is a User Feedback System designed to collect, store, and display u
      MONGO_URI=<your-mongo-db-connection-string>
      ```
      ```env
+     REACT_APP_API_URL=http://localhost:5000
+     ```
      
 
 4. **Run the Application**
